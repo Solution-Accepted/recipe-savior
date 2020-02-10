@@ -1,4 +1,4 @@
-package com.example.recipesavior;
+package uci.mswe.recipesavior;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
